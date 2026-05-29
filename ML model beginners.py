@@ -113,7 +113,7 @@ print(classification_report(
 # What does the model predict? When does it get things wrong?
 # ─────────────────────────────────────────────────────────────────
 
-new_headline = ['Apple announces breakthrough in quantum computing research']
+new_headline = ['']
 
 # Run the headline through the same TF-IDF vectorizer we trained earlier,
 # then ask the model to predict
